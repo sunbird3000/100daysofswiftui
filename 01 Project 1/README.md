@@ -3,6 +3,9 @@
 This project includes the code to a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave. 
 It also includes the code for the challenge part of the project.
 
+### Hacking with Swift
+https://www.hackingwithswift.com/100/swiftui/16 
+
 
 ## Topics Covered: 
 1. Basic Structure of SwiftUI App 
@@ -13,12 +16,12 @@ It also includes the code for the challenge part of the project.
 6. Storing program state with @State property wrapper 
 
 
-## Challenge: 
+## Challenge (solved): 
 
-	1	Add a header to the third section, saying “Amount per person”
-	2	Add another section showing the total amount for the check – i.e., the original amount plus tip value, without dividing by the number of people.
-	3	Change the “Number of people” picker to be a text field, making sure to use the correct keyboard type.
+* Add a header to the third section, saying “Amount per person”
+* Add another section showing the total amount for the check – i.e., the original amount plus tip value, without dividing by the number of people.
+* Change the “Number of people” picker to be a text field, making sure to use the correct keyboard type.
 
 
-## Hacking with Swift
-https://www.hackingwithswift.com/100/swiftui/16 
+<img src="https://github.com/sunbird3000/100daysofswiftui/blob/master/01%20Project%201/Preview/Project%201%20-%20We%20Split%20-%20Preview.png?raw=true" width= "640">
+
