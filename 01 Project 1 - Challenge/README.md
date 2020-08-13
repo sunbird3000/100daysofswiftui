@@ -1,4 +1,4 @@
-# Project 1 - Challenge (Currency Converter)
+# Project 1 - Challenge (Converter)
 
 This folder includes the code to Day 19 Challenge of HackingwithswiftUI
 
